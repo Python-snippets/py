@@ -1,0 +1,13 @@
+astroid
+autopep8
+certifi
+colorama
+isort
+lazy-object-proxy
+mccabe
+pycodestyle
+pylint
+pynput
+six
+wincertstore
+wrapt
